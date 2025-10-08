@@ -86,13 +86,13 @@ function Dashboard() {
               {/* Stacked bar chart (Sales VS Refunds) */}
               <DashboardCard09 />
               {/* Card (Customers) */}
-              <DashboardCard10 />
-              {/* Card (Reasons for Refunds) */}
+              {/* <DashboardCard10 />
+              {/* Card (Reasons for Refunds) 
               <DashboardCard11 />
-              {/* Card (Recent Activity) */}
+              {/* Card (Recent Activity) 
               <DashboardCard12 />
-              {/* Card (Income/Expenses) */}
-              <DashboardCard13 />
+              {/* Card (Income/Expenses) 
+              <DashboardCard13 /> */}
               
             </div>
 
